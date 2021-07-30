@@ -14,6 +14,8 @@ const validateButton = document.querySelector("#checkButton");
 
 
 */
+
+
 /*
 const validateCreditCard = (num)=>{
     var arrayList = String(num).split("").map((num)=>{
